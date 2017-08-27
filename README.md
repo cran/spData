@@ -3,23 +3,55 @@
 spData
 ======
 
-[![Build Status](https://travis-ci.org/Nowosad/spData.png?branch=master)](https://travis-ci.org/Nowosad/spData)
+[![Build Status](https://travis-ci.org/Nowosad/spData.png?branch=master)](https://travis-ci.org/Nowosad/spData) [![CRAN version](http://www.r-pkg.org/badges/version/spData)](https://cran.r-project.org/package=spData) [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/spData)](https://cran.r-project.org/package=spData)
 
 Datasets for spatial analysis
 
 ### `sf`
 
+-   `baltimore` - House sales prices, Baltimore, MD 1978
+-   `cycle_hire` - Cycle hire points in London
 -   `cycle_hire_osm` - Cycle hire points in London from OSM
+-   `lnd` - The boroughs of London
 -   `us_states` - US states polygons
 -   `world` - World country polygons
+-   `wheat` - Mercer and Hall wheat yield data
+
+### `sp`
+
+-   `auckland` - Marshall's infant mortality in Auckland dataset
+-   `elect80` - 1980 Presidential election results
+-   `house` - Lucas county OH housing
+-   `SplashDams` - Data for Splash Dams in western Oregon
+-   `state.vbm` - US State Visibility Based Map
+
+### `spdep`
+
+-   `afcon` - Spatial patterns of conflict in Africa 1966-78
+-   `boston` - Boston Housing Data
+-   `columbus` - Columbus OH spatial analysis data set
+-   `eire` - Eire data sets
+-   `nc.sids` - North Carolina SIDS data
+-   `NY_data` - New York leukemia data
+-   `used.cars` - US 1960 used car prices
 
 ### misc
 
+-   `getisord` - Getis-Ord remote sensing example data
+-   `hopkins` - Hopkins burnt savanna herb remains
+-   `huddersfield` - Prevalence of respiratory symptoms
+-   `jenks71` - Illinois 1959 county gross farm product value per acre
 -   `us_states_df` - Selected American Community Survey (ACS) data
 -   `worldbank_df` - Selected World Bank data
 
 Installation
 ------------
+
+Get the released version from CRAN:
+
+``` r
+install.packages("spData")
+```
 
 Get the development version from github:
 
