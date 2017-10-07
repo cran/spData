@@ -1,4 +1,4 @@
-0ad5e4ac9fa8053950652c489f3ca070 *DESCRIPTION
+430d1ecc76089ab618ce0595fb6973cc *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 cf18e78e93abcc475f8eaad8d9340c34 *R/SplashDams.R
 967f26c744906e72338bed444962af28 *R/afcon.R
@@ -19,6 +19,7 @@ d5d98daee04727456c15e91dedaa068b *R/lnd.R
 862848080aa52e57b890c80a10f81f03 *R/nc.sids.R
 11e298d80fd04442aa63a02c9d15aae3 *R/nydata.R
 19f555671437dc0e3bbbc62c5c659e5d *R/state.vbm.R
+26cb94cd108cbd0a6ab0a690c61487f5 *R/urban_agglomerations.R
 3672dfdc9fbec2fb1d6661a0aef1fcb2 *R/us_states.R
 3ec7eb3e13ff9b2a1831413e049c599b *R/us_states_df.R
 2090c04068a15797c148f9f67308e7c6 *R/used.cars.R
@@ -26,7 +27,7 @@ a69e94e4a98fce0833ef403da5be866a *R/wheat.R
 99f8ef228108ac315a1a25a75b0f8fb5 *R/world.R
 36858e0b80f9126776f69c9c4a54bc36 *R/worldbank_df.R
 dd64b6452ec5c03a2caea3808edd8cff *R/zzz.R
-3c2408238bcd4422cf688b0b24ff3528 *README.md
+00ae1661585640f649d403736ff2de8d *README.md
 d0b8c2ac5cb2ac40fff68a7b329df381 *data/SplashDams.rda
 2a50066b1c5c0d5578d41253935c36c2 *data/afcon.rda
 35d3cedf5ae4bed43d2287f554fa5ab2 *data/auckland.rda
@@ -35,7 +36,7 @@ e7e844980d9c5b82522ed30ab210e5af *data/boston.rda
 b818650dc1a3e0335a7767fe78f721f5 *data/columbus.rda
 949b666e981ca47593f490b53c414a21 *data/cycle_hire.rda
 08cfe492de27771799f0e3d00039a2df *data/cycle_hire_osm.rda
-5884d5b0db2906bbf9edd508c7a8f5c4 *data/datalist
+63acf2bcbccffcacdc3f69718acce359 *data/datalist
 5e7e97b208f3d4a44393e668799ce382 *data/eire.rda
 d5522f6ca4e5c04ce9e3d9b7c789ca6a *data/elect80.rda
 252f3f055711a8d0d15139c75efd93f9 *data/getisord.rda
@@ -47,6 +48,7 @@ d5522f6ca4e5c04ce9e3d9b7c789ca6a *data/elect80.rda
 e9d69314991a1d1565abddba2f6b334c *data/nc.sids.rda
 9e6c75b19b7e87b1e691e2457cce4dbf *data/nydata.rda
 f58d7bbadb55463c773ef91b74f7e6cf *data/state.vbm.rda
+e0f7f6ebfe48aecf771af7f1e97f800a *data/urban_agglomerations.rda
 6c44dc7ddbdfbc8047ff5909716b9c5d *data/us_states.rda
 08bb1c97741927cf9767721d8c61d21a *data/us_states_df.rda
 9f4230eb9cbbf1d870a031a56c55e81f *data/used.cars.rda
@@ -54,8 +56,10 @@ e6e43c55eee344ada74c815b738eae66 *data/wheat.rda
 06209bbe6b908a3c24396cee88239f8d *data/world.rda
 03b3b6e7e77188777cdaafd4e59a4eb7 *data/worldbank_df.rda
 119363fcd90fc0bd7e7ea798cd7fbc7b *inst/README
+d4cb876eddfc53ed5c131927f5fc9efe *inst/misc/cycle_hire_xy.csv
 2591ac95bd9191d0aee07450f7caf9bb *inst/misc/nyadjwts.dbf
 f7231b296d3e4ed0a99d763517194771 *inst/misc/nydata.dbf
+af2073b1a1255700f9d0571e04afb9bc *inst/misc/world_wkt.csv
 1e5e836ec32827ea55554ff0b43518d2 *inst/misc/worldbank_df.csv
 ae6ca9a701a587644aa5739fc3d57eb3 *inst/shapes/NY8_utm18.dbf
 32b7195710fabd7849fb397c8676b346 *inst/shapes/NY8_utm18.prj
@@ -114,6 +118,7 @@ b1aa9e1292c1600cbdaaef08eea5810b *man/jenks71.Rd
 4d1cda7bfd6147fef0770a06506642f0 *man/nc.sids.Rd
 2f638535c3360d276de52a051e0e84c0 *man/nydata.Rd
 ecda7f87037f852f37839f64e8bacdeb *man/state.vbm.Rd
+b24b4cb3c6e71bd04903d119637918e2 *man/urban_agglomerations.Rd
 2e24682e307fbf0cb077b7e0019ba6c3 *man/us_states.Rd
 a038a91065e8050cb25789a4e6d8d6de *man/us_states_df.Rd
 69370044e1471af6b26f87196eb04d9d *man/used.cars.Rd
