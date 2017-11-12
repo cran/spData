@@ -1,4 +1,4 @@
-1f773e8bc0ed5463ee7ee66db96c6d96 *DESCRIPTION
+2911089c426b35b4b791b11b1f91679f *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 3988b22b7bd844ff8454c0d49dca5fc0 *R/SplashDams.R
 2fd383478551dc8fa89972fb3fa874bc *R/afcon.R
@@ -18,6 +18,8 @@ a2ea29bc90a88b17798de1cc7b7dfa79 *R/house.R
 c6e6b05ebce9b1c418737cd540a30a82 *R/lnd.R
 488e7e5cb7aa4ed7ff47c75a1c2987bf *R/nc.sids.R
 5c2a9bdfc57ed6268341241f94e4c8cf *R/nydata.R
+33e5c965721087e69464620d1ae01ba0 *R/nz-height.R
+a5dc492e5c4375971c878946fa0391fb *R/nz.R
 3d4c3bfa1ac5535a899c5a0692e5f698 *R/state.vbm.R
 f2f35353c2e4cc0663664eb4cd7c515e *R/urban_agglomerations.R
 3672dfdc9fbec2fb1d6661a0aef1fcb2 *R/us_states.R
@@ -27,7 +29,7 @@ c7a6ba189307c3a051ec4bc0552a2636 *R/used.cars.R
 99f8ef228108ac315a1a25a75b0f8fb5 *R/world.R
 7b3e6363cda8a7cd6fb86fefe302e634 *R/worldbank_df.R
 dd64b6452ec5c03a2caea3808edd8cff *R/zzz.R
-00ae1661585640f649d403736ff2de8d *README.md
+23bf6dd2a305882f22a66bee030c77c9 *README.md
 d0b8c2ac5cb2ac40fff68a7b329df381 *data/SplashDams.rda
 2a50066b1c5c0d5578d41253935c36c2 *data/afcon.rda
 35d3cedf5ae4bed43d2287f554fa5ab2 *data/auckland.rda
@@ -36,7 +38,7 @@ af8459f299308e4372e5be94104adeaa *data/baltimore.rda
 b818650dc1a3e0335a7767fe78f721f5 *data/columbus.rda
 949b666e981ca47593f490b53c414a21 *data/cycle_hire.rda
 90f4f1441ac01ed648f93e0d260ef156 *data/cycle_hire_osm.rda
-63acf2bcbccffcacdc3f69718acce359 *data/datalist
+d6f36ee7111f329a18c374088bcc638d *data/datalist
 5e7e97b208f3d4a44393e668799ce382 *data/eire.rda
 d5522f6ca4e5c04ce9e3d9b7c789ca6a *data/elect80.rda
 252f3f055711a8d0d15139c75efd93f9 *data/getisord.rda
@@ -47,6 +49,8 @@ d5522f6ca4e5c04ce9e3d9b7c789ca6a *data/elect80.rda
 4d7ef38815fcd73ff11f5957f54c5d06 *data/lnd.rda
 e9d69314991a1d1565abddba2f6b334c *data/nc.sids.rda
 9e6c75b19b7e87b1e691e2457cce4dbf *data/nydata.rda
+e7b85aec8cc911948a780a4f5f03b57c *data/nz.rda
+e0575f73acff1570f89074984377f5d6 *data/nz_height.rda
 f58d7bbadb55463c773ef91b74f7e6cf *data/state.vbm.rda
 e0f7f6ebfe48aecf771af7f1e97f800a *data/urban_agglomerations.rda
 6c44dc7ddbdfbc8047ff5909716b9c5d *data/us_states.rda
@@ -119,6 +123,8 @@ b1aa9e1292c1600cbdaaef08eea5810b *man/jenks71.Rd
 25475b187e14b3dd08b766c657c7bc5a *man/lnd.Rd
 697cab14508cf5b5db4c4547f6a485f9 *man/nc.sids.Rd
 2a3feec20c3f9043de2e5da02b6b39a3 *man/nydata.Rd
+2212d6aaa0e6e2f78b72b1e3b2eead30 *man/nz.Rd
+c348f20c253264258d36be0732bb073c *man/nz_height.Rd
 ecda7f87037f852f37839f64e8bacdeb *man/state.vbm.Rd
 b24b4cb3c6e71bd04903d119637918e2 *man/urban_agglomerations.Rd
 2e24682e307fbf0cb077b7e0019ba6c3 *man/us_states.Rd
