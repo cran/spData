@@ -1,4 +1,4 @@
-983787dfa5f12ebb3e00b9d72a798762 *DESCRIPTION
+b693b7d6815f076bd43c0f6c0d828bc1 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 690bec318cf14df15ca2fccf0e468c84 *R/SplashDams.R
 a348e6c752bd804ac505454ad87695e0 *R/afcon.R
@@ -16,11 +16,12 @@ fb96f2192c9d3265c77f8b25b51c411c *R/cycle_hire_osm.R
 e46eb8ed71e3d32bcbac18eb3a11a3f8 *R/house.R
 72743e58f5046bb6ea23de258f0ad387 *R/huddersfield.R
 3de62eda86d61117e9a22b5a0042e1f0 *R/jenks71.R
-97322e29b2de30a7f80a6f53cd0ed326 *R/lnd.R
+ab8b4528d0673c9dc23b9896f8499254 *R/lnd.R
 4cbe5c687559d003a64ce3ebb54087d9 *R/nc.sids.R
 04af94bf7d6b522172b5a21f94fddb47 *R/nydata.R
 a556d8ece25383dc43857b878c7e996b *R/nz.R
 071fecbbeca69b0a2297a605c2deffc8 *R/nz_height.R
+670f844ac46028b58b55ce537804c0d6 *R/seine.R
 1215be971c80dce3e385f56025aa06e4 *R/state.vbm.R
 d794600bfbbc41b93b298347955a5852 *R/urban_agglomerations.R
 7e93e20c6ced58871f757af36fe0a258 *R/us_states.R
@@ -41,7 +42,7 @@ b818650dc1a3e0335a7767fe78f721f5 *data/columbus.rda
 057a31ad539e50f63b223c3c22062f7c *data/congruent.rda
 949b666e981ca47593f490b53c414a21 *data/cycle_hire.rda
 90f4f1441ac01ed648f93e0d260ef156 *data/cycle_hire_osm.rda
-0cebb91cacb10563597cd94d6c6cf8cf *data/datalist
+c1139aeb8c79bc2fc220ea0646f08fe6 *data/datalist
 5e7e97b208f3d4a44393e668799ce382 *data/eire.rda
 d5522f6ca4e5c04ce9e3d9b7c789ca6a *data/elect80.rda
 252f3f055711a8d0d15139c75efd93f9 *data/getisord.rda
@@ -55,6 +56,7 @@ e9d69314991a1d1565abddba2f6b334c *data/nc.sids.rda
 9e6c75b19b7e87b1e691e2457cce4dbf *data/nydata.rda
 e7b85aec8cc911948a780a4f5f03b57c *data/nz.rda
 e0575f73acff1570f89074984377f5d6 *data/nz_height.rda
+eb3e27f97a4ef45fdafb27f5ca3c152f *data/seine.rda
 f58d7bbadb55463c773ef91b74f7e6cf *data/state.vbm.rda
 e0f7f6ebfe48aecf771af7f1e97f800a *data/urban_agglomerations.rda
 6c44dc7ddbdfbc8047ff5909716b9c5d *data/us_states.rda
@@ -92,7 +94,6 @@ aff914d830bfb7f7d6deecef5bf5d013 *inst/shapes/cycle_hire.geojson
 b77745ea4cc19509c5eb954381369d82 *inst/shapes/eire.dbf
 c46faee7abb7544355d79d83217e0832 *inst/shapes/eire.shp
 27d96e4a6ed58e33b58d27df96f8a77b *inst/shapes/eire.shx
-b99e3e3d8386a76d17b509d7b37c6708 *inst/shapes/lnd.geojson
 9a823837100723966d9f4bb484e2c891 *inst/shapes/sids.dbf
 d18faad5c8aca8d5d4377e26fc2cf672 *inst/shapes/sids.shp
 838b276e48cf3b4656ce047a01791904 *inst/shapes/sids.shx
@@ -125,11 +126,12 @@ a621721e3f30f8ba0608e1a8936364d0 *man/elect80.Rd
 494ad73714a10ebf13e82bbe57ae3a00 *man/house.Rd
 2b5fad454f94fcf54adeb568f43df853 *man/huddersfield.Rd
 b1aa9e1292c1600cbdaaef08eea5810b *man/jenks71.Rd
-87405c9d68b3ef4f39679bd54f879f66 *man/lnd.Rd
+b8d9d37ed3dfa3065feabdc67e5039ed *man/lnd.Rd
 a5e773d9cc24294ed30fa9f96c420146 *man/nc.sids.Rd
 462dcb180296abccfc3305dca88b605f *man/nydata.Rd
 d93c48acf05d3a471942237b522b03de *man/nz.Rd
 01bc933769de09f7247c35037e2ae326 *man/nz_height.Rd
+5de92c50344b7d18aeed95194eb43be3 *man/seine.Rd
 a8af3b859d367cc0293eb58e0b597a2e *man/state.vbm.Rd
 3e0f4d18882601e3f7be965c029c4590 *man/urban_agglomerations.Rd
 fb086e9c403c4ee2937cb23d7f1dd104 *man/us_states.Rd
