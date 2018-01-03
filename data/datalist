@@ -10,7 +10,9 @@ cycle_hire
 cycle_hire_osm
 eire: eire.coords.utm eire.df eire.nb eire.polys.utm
 elect80: dll e80_queen elect80 elect80_lw k4
+elev
 getisord: x xyz y
+grain
 hopkins
 house: LO_nb house trMat
 huddersfield
