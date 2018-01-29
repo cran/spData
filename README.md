@@ -18,6 +18,7 @@ Datasets for spatial analysis
 -   `lnd` - The boroughs of London
 -   `nz` - The regions of New Zealand
 -   `nz_height` - High points in New Zealand
+-   `seine` - Small river network in France
 -   `urban_agglomerations` - Major urban areas worldwide
 -   `us_states` - US states polygons
 -   `world` - World country polygons
@@ -48,6 +49,7 @@ Datasets for spatial analysis
 
 ### misc
 
+-   `coffee_data` - World coffee production statistics by country, 2016 - 2017
 -   `getisord` - Getis-Ord remote sensing example data
 -   `hopkins` - Hopkins burnt savanna herb remains
 -   `huddersfield` - Prevalence of respiratory symptoms

@@ -4,6 +4,7 @@ aggregating_zones
 auckland: auckland auckland.nb auckpolys
 baltimore
 boston: boston.c boston.soi boston.utm
+coffee_data
 columbus: bbs col.gal.nb columbus coords polys
 congruent
 cycle_hire
