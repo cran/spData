@@ -1,6 +1,7 @@
 SplashDams
 afcon: afcon africa.rook.nb afxy paper.nb
 aggregating_zones
+alaska
 auckland: auckland auckland.nb auckpolys
 baltimore
 boston: boston.c boston.soi boston.utm
@@ -14,6 +15,7 @@ elect80: dll e80_queen elect80 elect80_lw k4
 elev
 getisord: x xyz y
 grain
+hawaii
 hopkins
 house: LO_nb house trMat
 huddersfield
