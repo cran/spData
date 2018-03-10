@@ -1,4 +1,4 @@
-2b1b62186c191f93fab84a7c648d650e *DESCRIPTION
+04ca5e98788c04f2ec6b5824eb4a17ff *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 690bec318cf14df15ca2fccf0e468c84 *R/SplashDams.R
 a348e6c752bd804ac505454ad87695e0 *R/afcon.R
@@ -21,7 +21,7 @@ d780247dfb4916110da11aa1194c2cba *R/hawaii.R
 e46eb8ed71e3d32bcbac18eb3a11a3f8 *R/house.R
 72743e58f5046bb6ea23de258f0ad387 *R/huddersfield.R
 3de62eda86d61117e9a22b5a0042e1f0 *R/jenks71.R
-ab8b4528d0673c9dc23b9896f8499254 *R/lnd.R
+b42478e7222750d8c9028356e85db765 *R/lnd.R
 4cbe5c687559d003a64ce3ebb54087d9 *R/nc.sids.R
 04af94bf7d6b522172b5a21f94fddb47 *R/nydata.R
 a556d8ece25383dc43857b878c7e996b *R/nz.R
@@ -35,7 +35,7 @@ fca33b49c3006e228d6ac8727ace8f56 *R/us_states_df.R
 c24317cf15cda250d40df7aab4fe94dc *R/wheat.R
 a9a1d8fc7f313545e1097771a37b7937 *R/world.R
 7b3e6363cda8a7cd6fb86fefe302e634 *R/worldbank_df.R
-dd64b6452ec5c03a2caea3808edd8cff *R/zzz.R
+ff810c137eb702f55c59877cd8a38414 *R/zzz.R
 990ed16a89dc449f616ad0f7297eb9ea *README.md
 d0b8c2ac5cb2ac40fff68a7b329df381 *data/SplashDams.rda
 2a50066b1c5c0d5578d41253935c36c2 *data/afcon.rda
@@ -141,7 +141,7 @@ b1cdcce9d0242fc360d6ec58328e69e4 *man/grain.Rd
 494ad73714a10ebf13e82bbe57ae3a00 *man/house.Rd
 2b5fad454f94fcf54adeb568f43df853 *man/huddersfield.Rd
 b1aa9e1292c1600cbdaaef08eea5810b *man/jenks71.Rd
-b8d9d37ed3dfa3065feabdc67e5039ed *man/lnd.Rd
+272f2b6e25f25e2520bb8a9671b6bd99 *man/lnd.Rd
 a5e773d9cc24294ed30fa9f96c420146 *man/nc.sids.Rd
 462dcb180296abccfc3305dca88b605f *man/nydata.Rd
 d93c48acf05d3a471942237b522b03de *man/nz.Rd
