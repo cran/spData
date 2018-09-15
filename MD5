@@ -1,4 +1,4 @@
-39827f7d4950a60c7a33dcb3311a6d36 *DESCRIPTION
+6d0b60c9905bea23430da1c00eec37f7 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 690bec318cf14df15ca2fccf0e468c84 *R/SplashDams.R
 a348e6c752bd804ac505454ad87695e0 *R/afcon.R
@@ -73,13 +73,13 @@ ec10487154907acf41ce3541f4348fd3 *data/us_states.rda
 08bb1c97741927cf9767721d8c61d21a *data/us_states_df.rda
 9f4230eb9cbbf1d870a031a56c55e81f *data/used.cars.rda
 e6e43c55eee344ada74c815b738eae66 *data/wheat.rda
-43400b52d1311db9e388ad263acf0841 *data/world.rda
+3724704460fddbd695208917837681c0 *data/world.rda
 b2574713097c382feda45aa6ec93bbdb *data/worldbank_df.rda
 119363fcd90fc0bd7e7ea798cd7fbc7b *inst/README
 d4cb876eddfc53ed5c131927f5fc9efe *inst/misc/cycle_hire_xy.csv
 2591ac95bd9191d0aee07450f7caf9bb *inst/misc/nyadjwts.dbf
 f7231b296d3e4ed0a99d763517194771 *inst/misc/nydata.dbf
-af2073b1a1255700f9d0571e04afb9bc *inst/misc/world_wkt.csv
+1dc4963038ca002e6200e675fc53589e *inst/misc/world_wkt.csv
 5446a759393c1f552ef5fe9ea1de2dbb *inst/misc/worldbank_df.csv
 fa11b60e742615f67b0394e1cafd013d *inst/shapes/NY8_bna_utm18.gpkg
 ae6ca9a701a587644aa5739fc3d57eb3 *inst/shapes/NY8_utm18.dbf
