@@ -1,4 +1,4 @@
-6d0b60c9905bea23430da1c00eec37f7 *DESCRIPTION
+46ef00b8091c83bfa55b5cecd1f4966d *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 690bec318cf14df15ca2fccf0e468c84 *R/SplashDams.R
 a348e6c752bd804ac505454ad87695e0 *R/afcon.R
@@ -35,7 +35,7 @@ fca33b49c3006e228d6ac8727ace8f56 *R/us_states_df.R
 c24317cf15cda250d40df7aab4fe94dc *R/wheat.R
 a9a1d8fc7f313545e1097771a37b7937 *R/world.R
 78bafc93a3c8932fb21fdd775e5058d2 *R/worldbank_df.R
-ff810c137eb702f55c59877cd8a38414 *R/zzz.R
+a8dbadfeca35ce85dae9deb48a11e674 *R/zzz.R
 990ed16a89dc449f616ad0f7297eb9ea *README.md
 d0b8c2ac5cb2ac40fff68a7b329df381 *data/SplashDams.rda
 2a50066b1c5c0d5578d41253935c36c2 *data/afcon.rda
