@@ -1,4 +1,4 @@
-b244aed62f86ac076e089af84a1c8eaf *DESCRIPTION
+151a23daf1e0796add228b42112f8a05 *DESCRIPTION
 3868f3dbcb34a1dfaefdb73daa20192a *NAMESPACE
 69cbe1b9a6be8f07051f1b07235d8441 *R/SplashDams.R
 f29787e41671969f87611d8bd19685e4 *R/afcon.R
@@ -36,7 +36,7 @@ c24317cf15cda250d40df7aab4fe94dc *R/wheat.R
 a9a1d8fc7f313545e1097771a37b7937 *R/world.R
 78bafc93a3c8932fb21fdd775e5058d2 *R/worldbank_df.R
 a8dbadfeca35ce85dae9deb48a11e674 *R/zzz.R
-22ba9d9bc55a3263f7640ef69e247089 *README.md
+ea4bb33ec75b42a2e75e5a7657a8e5c9 *README.md
 431eced889458902aa0ab3b4c6f8c9f8 *data/SplashDams.rda
 2a50066b1c5c0d5578d41253935c36c2 *data/afcon.rda
 7aa6dc55ba0ecaa17262f57368208b0d *data/aggregating_zones.rda
@@ -49,15 +49,14 @@ b818650dc1a3e0335a7767fe78f721f5 *data/columbus.rda
 1b5dbe9a0ac079b05f91b80214d24112 *data/congruent.rda
 ba4560a5661f06fae165e82b0016169a *data/cycle_hire.rda
 aac2e6336660e87f535b00aef8b383ee *data/cycle_hire_osm.rda
-01d999e61be19ff0c497394f23505b22 *data/datalist
 5e7e97b208f3d4a44393e668799ce382 *data/eire.rda
-3236245f25bd0d34074e212d1d9ce058 *data/elect80.rda
+3279e6c5fb56af60868f19a55906ca1c *data/elect80.rda
 61cae71d1a5c9bf0e823354f5c69cbaf *data/elev.rda
 3c29608288766a9933b6de7d917cc6d6 *data/getisord.rda
 31d639c99a068aa16ca819375ef6083a *data/grain.rda
 3310976908dac396840873ab393e728d *data/hawaii.rda
 7bee18aad2f379608798909b6e8b35a2 *data/hopkins.rda
-3024fdc2b9ceb0b06c00469dd31dea73 *data/house.rda
+0161b37c9b3bbf06e1d79035a1f625c0 *data/house.rda
 3f26abf2bccddbeefb800dfa4cce6a4b *data/huddersfield.rda
 ddca1430f1ca46a65b3a0a02898c3869 *data/incongruent.rda
 783979bd862fb3baddf800c987dd3b94 *data/jenks71.rda
@@ -68,7 +67,7 @@ ce80db60e17ef4bbafb1d0f70918df7c *data/lnd.rda
 d083fe36cb608663885fd1f7d290de1e *data/nz_height.rda
 35a9f8a3d86183f2bbe84b5e4144c0b5 *data/seine.rda
 18b6a9159093f466a308186d1afd91b6 *data/state.vbm.rda
-09e316b7bd2035e844edc9f09d2ab6e8 *data/urban_agglomerations.rda
+33fc7e1ecd44d152eb927d3b0dfbc9e9 *data/urban_agglomerations.rda
 e085a2d0e6f839680e039ce66c85c51f *data/us_states.rda
 08bb1c97741927cf9767721d8c61d21a *data/us_states_df.rda
 9f4230eb9cbbf1d870a031a56c55e81f *data/used.cars.rda
