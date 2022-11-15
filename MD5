@@ -1,4 +1,4 @@
-f027aa39aa754360274bfcd3315330eb *DESCRIPTION
+764882c67722831def7477a91441a3eb *DESCRIPTION
 98c2250be5380ce5139a6e5b8b8f3128 *NAMESPACE
 89ff6e0b0c02af4abe5fdafc279b124e *R/SplashDams.R
 f29787e41671969f87611d8bd19685e4 *R/afcon.R
@@ -11,6 +11,7 @@ fc76ff584cd3c051fe392995c7711060 *R/boston.R
 f0c41fe3c9f8691dd492d631d7847627 *R/congruent.R
 4c824fbbb866faf623b433d73ba81cc4 *R/cycle_hire.R
 a52ec84270658ee1341801f1d2121ace *R/cycle_hire_osm.R
+cd1222f84628fd9bb0fcd86154943eb9 *R/depmunic.R
 8b80bb612eeff108449b1cead9a24a30 *R/eire.R
 325d81370726490b8397cedcf2434795 *R/elect80.R
 bef517a4ac094d23da681e7899ec7404 *R/elev.R
@@ -26,6 +27,7 @@ b42478e7222750d8c9028356e85db765 *R/lnd.R
 04af94bf7d6b522172b5a21f94fddb47 *R/nydata.R
 67b213f39c02bf0bdeaac575c9e50768 *R/nz.R
 f9b179f95d9140f4362caa193146faae *R/nz_height.R
+b4812dd5dbf053c7e1f1387e3fac8ae8 *R/properties.R
 9caa35d81e59a3921c42b94bca5c5250 *R/seine.R
 d84caf4496b9e1774682ab2de8501d9a *R/state.vbm.R
 52240f1bb4e35f97db8bf3d5eecd7269 *R/urban_agglomerations.R
@@ -36,7 +38,7 @@ c24317cf15cda250d40df7aab4fe94dc *R/wheat.R
 8ef066496ec3ebcc0d1b1396cf84e685 *R/world.R
 75a50728fdf966f666537bc09d223c07 *R/worldbank_df.R
 a8dbadfeca35ce85dae9deb48a11e674 *R/zzz.R
-ec97f6a6470c1c32305489c2b0a57e61 *README.md
+daf98134a80fb3dcff6a1ec1ca4e4a82 *README.md
 431eced889458902aa0ab3b4c6f8c9f8 *data/SplashDams.rda
 2a50066b1c5c0d5578d41253935c36c2 *data/afcon.rda
 7aa6dc55ba0ecaa17262f57368208b0d *data/aggregating_zones.rda
@@ -49,6 +51,7 @@ b818650dc1a3e0335a7767fe78f721f5 *data/columbus.rda
 1b5dbe9a0ac079b05f91b80214d24112 *data/congruent.rda
 ba4560a5661f06fae165e82b0016169a *data/cycle_hire.rda
 aac2e6336660e87f535b00aef8b383ee *data/cycle_hire_osm.rda
+605280cb9c034673cd5019a94c86e87a *data/depmunic.rda
 5e7e97b208f3d4a44393e668799ce382 *data/eire.rda
 3279e6c5fb56af60868f19a55906ca1c *data/elect80.rda
 3c29608288766a9933b6de7d917cc6d6 *data/getisord.rda
@@ -63,6 +66,7 @@ ce80db60e17ef4bbafb1d0f70918df7c *data/lnd.rda
 9e6c75b19b7e87b1e691e2457cce4dbf *data/nydata.rda
 9276278bd857da606b28fd03ac09d254 *data/nz.rda
 d083fe36cb608663885fd1f7d290de1e *data/nz_height.rda
+71209f1cb1756c49b3a3f319fe3b42b1 *data/properties.rda
 35a9f8a3d86183f2bbe84b5e4144c0b5 *data/seine.rda
 18b6a9159093f466a308186d1afd91b6 *data/state.vbm.rda
 33fc7e1ecd44d152eb927d3b0dfbc9e9 *data/urban_agglomerations.rda
@@ -131,6 +135,7 @@ b3b5e60df30005a56756e037416144d8 *man/coffee_data.Rd
 2ef9c53dd80f2222aa0a53ee3a317013 *man/congruent.Rd
 718606fa59056026e25d8aff4e0efa94 *man/cycle_hire.Rd
 f055056ac6f4a5dd348e957f2d14fd14 *man/cycle_hire_osm.Rd
+bd4cde874685d237693f6dc805c38cac *man/depmunic.Rd
 b6248b4ebf6f15ab28f1db56c394b695 *man/eire.Rd
 9b5fe48aa5b853d4031062411a21c1a6 *man/elect80.Rd
 02aa6ab216afac192d76b54ee155fc55 *man/elev.tif.Rd
@@ -146,6 +151,7 @@ a8570b51a5f3d121e86da2ad577023e3 *man/jenks71.Rd
 a7727bcab8056fb2c71e1cd83437edb4 *man/nydata.Rd
 e3ca9ab2d2cd404641eaa99d54046f45 *man/nz.Rd
 5b4cfd07c284b3971e866e523bb99f9d *man/nz_height.Rd
+830c2a22b0c22abed07cf6017b288ccf *man/properties.Rd
 f28363aead1ebb85bf9fbc0bafe9533c *man/seine.Rd
 4b0150467ddb7db6a55c3c41f0c1bf0b *man/state.vbm.Rd
 90361ff8199f73d71bce666d7e2181d7 *man/urban_agglomerations.Rd
