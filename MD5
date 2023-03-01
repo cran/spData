@@ -1,4 +1,4 @@
-764882c67722831def7477a91441a3eb *DESCRIPTION
+c184351930479eceb89e317e863ff5fb *DESCRIPTION
 98c2250be5380ce5139a6e5b8b8f3128 *NAMESPACE
 89ff6e0b0c02af4abe5fdafc279b124e *R/SplashDams.R
 f29787e41671969f87611d8bd19685e4 *R/afcon.R
@@ -23,7 +23,7 @@ f3d403fc8777cd73b61277dd3361e468 *R/hawaii.R
 72743e58f5046bb6ea23de258f0ad387 *R/huddersfield.R
 3de62eda86d61117e9a22b5a0042e1f0 *R/jenks71.R
 b42478e7222750d8c9028356e85db765 *R/lnd.R
-367db6c4d280216a914d6e42c0c90270 *R/nc.sids.R
+0565ce145c3efec9ea25b6ad4bbab3fa *R/nc.sids.R
 04af94bf7d6b522172b5a21f94fddb47 *R/nydata.R
 67b213f39c02bf0bdeaac575c9e50768 *R/nz.R
 f9b179f95d9140f4362caa193146faae *R/nz_height.R
@@ -147,7 +147,7 @@ abf7a2e154b4dd51055160ff80a6021c *man/grain.tif.Rd
 c8d2042951916f6a53e283a1d583722e *man/huddersfield.Rd
 a8570b51a5f3d121e86da2ad577023e3 *man/jenks71.Rd
 800f6caf1bca915755aadfc89d38f811 *man/lnd.Rd
-28574e0198be489428519fe1a118f9e6 *man/nc.sids.Rd
+e1796bd47dcf18620e1172536224c252 *man/nc.sids.Rd
 a7727bcab8056fb2c71e1cd83437edb4 *man/nydata.Rd
 e3ca9ab2d2cd404641eaa99d54046f45 *man/nz.Rd
 5b4cfd07c284b3971e866e523bb99f9d *man/nz_height.Rd
