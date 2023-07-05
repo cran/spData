@@ -1,4 +1,4 @@
-c184351930479eceb89e317e863ff5fb *DESCRIPTION
+c7fc2a7089ef6009d1014e7da10acc8f *DESCRIPTION
 98c2250be5380ce5139a6e5b8b8f3128 *NAMESPACE
 89ff6e0b0c02af4abe5fdafc279b124e *R/SplashDams.R
 f29787e41671969f87611d8bd19685e4 *R/afcon.R
@@ -74,7 +74,7 @@ e085a2d0e6f839680e039ce66c85c51f *data/us_states.rda
 08bb1c97741927cf9767721d8c61d21a *data/us_states_df.rda
 9f4230eb9cbbf1d870a031a56c55e81f *data/used.cars.rda
 e6e43c55eee344ada74c815b738eae66 *data/wheat.rda
-2b7a36a677ccf0b91ff32642d489af89 *data/world.rda
+45ce576fa4c4fe2808cd67f9e53a7c24 *data/world.rda
 b2574713097c382feda45aa6ec93bbdb *data/worldbank_df.rda
 119363fcd90fc0bd7e7ea798cd7fbc7b *inst/README
 d4cb876eddfc53ed5c131927f5fc9efe *inst/misc/cycle_hire_xy.csv
@@ -114,11 +114,11 @@ d18faad5c8aca8d5d4377e26fc2cf672 *inst/shapes/sids.shp
 d0544f40bff51c4d71f16faef728d4be *inst/shapes/wheat.dbf
 cc4be9b576477a9770267798e8d390ba *inst/shapes/wheat.shp
 a708a4740d0439ee34d10d367e609694 *inst/shapes/wheat.shx
-0aef1b542a4225230248d43a29ea17e6 *inst/shapes/world.dbf
-958de6d694dde31597b4bfed190b81fe *inst/shapes/world.gpkg
+a270c19fdd3111f21c181e48f36d3a1f *inst/shapes/world.dbf
+7178d3483619f720a58649df7de6de19 *inst/shapes/world.gpkg
 c742bee3d4edfc2948a2ad08de1790a5 *inst/shapes/world.prj
-599e5e8eacd56ea7fdc6fbd923ef9c84 *inst/shapes/world.shp
-479f7603e5c6136d85884e2dba3adec0 *inst/shapes/world.shx
+f9b92a7debbd6895f52873222bfdbe81 *inst/shapes/world.shp
+463da58fa19c47d3992f3bc50c02eecc *inst/shapes/world.shx
 80045a12c13b1ffc1d0598b37160c664 *inst/weights/NY_nb.gal
 f6e1055cc8204d302b55e78d6f2c4fbd *inst/weights/baltk4.GWT
 36afea5495806cd17068e541de910b2c *inst/weights/columbus.gal
